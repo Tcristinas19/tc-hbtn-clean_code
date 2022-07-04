@@ -1,0 +1,39 @@
+
+n
+java:S1104"XMake modifiedDate a static final constant or non-public and provide accessors if needed.(ò¾íº
+m
+java:S1104"WMake AccountList a static final constant or non-public and provide accessors if needed.(õõá 
+e
+java:S1104
+"OMake url a static final constant or non-public and provide accessors if needed.(»‡Ñý
+0
+java:S1220""Move this file to a named package.
+k	java:S116"VRename this field "AccountList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õõá 
+q	java:S116"WRename this field "DAYS_IN_YEAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óØßÿúÿÿÿÿ
+m	java:S116"XRename this field "HOURS_IN_WEEK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¬ù­
+<
+java:S1170"!Make this final field static too.(óØßÿúÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(¨¬ù­
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™¬þ¿úÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ý¥½¢úÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Ž£ø
+7
+java:S1116"Remove this empty statement.(™¬þ¿úÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(ý¥½¢úÿÿÿÿ
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ö¶Ð„
+2
+java:S1116"Remove this empty statement.(Ö¶Ð„
+2
+java:S1116"Remove this empty statement.(˜Ž£ø
+2
+java:S1116"Remove this empty statement.(²ÜØí
+2
+java:S1116"Remove this empty statement.(²ÜØí
+2
+java:S1116"Remove this empty statement.(²ÜØí
